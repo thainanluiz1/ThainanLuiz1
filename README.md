@@ -18,7 +18,8 @@
   <img align="center" alt="Thainan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thainan-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Thainan-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"> 
-  <img align="center" alt="Thainan-NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"> 
+  <img align="center" alt="Thainan-NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Thainan-NPM" height="30" width="40" src="https://firebasestorage.googleapis.com/v0/b/listaespera-development.appspot.com/o/ziplogo.png?alt=media&token=2c7d9c68-e516-4b11-af8a-cf70cd20ae30">
  
 </div>
 
